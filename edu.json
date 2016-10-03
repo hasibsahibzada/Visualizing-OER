@@ -1,0 +1,47 @@
+{
+  "name": "HackathonEdu",
+  "children": [
+	{
+		"name" : "Biology",
+		"children":[
+			{
+				"name" : "pictures",
+				"size" : 10
+			},
+			{
+				"name" : "videos",
+				"size" : 5
+			},
+			{
+				"name" : "pdf",
+				"size" : 1
+			},
+			{
+				"name" : "categories",
+				"size" : 2
+			}
+		]
+		},{
+			"name" : "Chimistery",
+		"children":[
+
+			{
+				"name" : "pictures",
+				"size" : 2
+			},
+			{
+				"name" : "videos",
+				"size" : 0
+			},
+			{
+				"name" : "pdf",
+				"size" : 4
+			},
+			{
+				"name" : "categories",
+				"size" : 12
+			}
+		]
+		}
+  ]
+}
